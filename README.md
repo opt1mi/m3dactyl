@@ -2,3 +2,4 @@
 ![This project is in beta and should not be used in a production ready environment.](https://cdn.chlorid.org/warning.png)
 ![Welcome to the new era banner with the screenshot of the panel shown slightly covering the text.](https://cdn.chlorid.org/banner.jpg)
 ![Features you'd like. Same consistant design you know and love; No bloatware; Free and Open-source](https://cdn.chlorid.org/p1.jpg)
+![Made with love by Optimi; Copyright 2024-2026 NaChlorid](https://cdn.chlorid.org/p2.png)
