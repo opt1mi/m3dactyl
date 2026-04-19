@@ -1,0 +1,37 @@
+info:
+  name: 'M3Dactyl'
+  identifier: 'mthreedactyl'
+  description: 'Finally a cool theme for Pterodactyl'
+  flags: ''
+  version: '1.0'
+  target: 'beta-2026-01'
+  author: 'NaChlorid'
+  icon: ''
+  website: ''
+
+admin:
+  view: 'view.blade.php'
+  controller: ''
+  css: ''
+  wrapper: ''
+
+dashboard:
+  css: 'root.css'
+  wrapper: ''
+  components: ''
+
+data:
+  directory: ''
+  public: ''
+  console: ''
+
+requests:
+  views: ''
+  app: ''
+  routers:
+    application: ''
+    client: ''
+    web: ''
+
+database:
+  migrations: ''
